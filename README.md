@@ -2,4 +2,6 @@
 
 Laboratory of Redis.
 
+## Index
 
+1. [Intro](intro.md)
