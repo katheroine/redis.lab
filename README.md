@@ -6,3 +6,4 @@ Laboratory of Redis.
 
 1. [Intro](intro.md)
 2. [Keys and Values](keys_and_values.md)
+3. [Numbers](numbers.md)
