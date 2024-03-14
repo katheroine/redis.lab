@@ -8,3 +8,4 @@ Laboratory of Redis.
 2. [Keys and Values](keys_and_values.md)
 3. [Numbers](numbers.md)
 4. [Strings](strings.md)
+5. [Hashes](hashes.md)
