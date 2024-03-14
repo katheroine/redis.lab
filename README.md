@@ -10,3 +10,4 @@ Laboratory of Redis.
 4. [Strings](strings.md)
 5. [Hashes](hashes.md)
 5. [Lists](lists.md)
+6. [Sets](sets.md)
