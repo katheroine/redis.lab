@@ -14,3 +14,4 @@ Laboratory of Redis.
 7. [Sorted sets](sorted_sets.md)
 8. [HyperLogLog](hyper_log_log.md)
 9. [Publish-subscribe](publish_subscribe/publish_subscribe.md)
+10. [Transactions](transactions.md)
