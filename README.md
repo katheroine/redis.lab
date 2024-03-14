@@ -9,3 +9,4 @@ Laboratory of Redis.
 3. [Numbers](numbers.md)
 4. [Strings](strings.md)
 5. [Hashes](hashes.md)
+5. [Lists](lists.md)
