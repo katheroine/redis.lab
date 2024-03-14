@@ -11,3 +11,4 @@ Laboratory of Redis.
 5. [Hashes](hashes.md)
 5. [Lists](lists.md)
 6. [Sets](sets.md)
+7. [Sorted sets](sorted_sets.md)
